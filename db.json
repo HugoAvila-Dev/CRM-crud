@@ -9,10 +9,17 @@
     },
     {
       "nombre": "Hugo",
-      "email": "correo@correo.com",
-      "telefono": "12313",
-      "empresa": "adafaf",
+      "email": "hugo@correo.com",
+      "telefono": "123123",
+      "empresa": "HugoSA",
       "id": 27
+    },
+    {
+      "nombre": "Monse ",
+      "email": "monse@correo.com",
+      "telefono": "1231231",
+      "empresa": "monseSA",
+      "id": 28
     }
   ]
 }

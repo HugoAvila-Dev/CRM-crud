@@ -37,8 +37,6 @@ import { obtenerClientes, eliminarCliente } from "./API.js";
     }
 
     function confirmarEliminar(e) {
-        e.preventDefault();
-        
         if(e.target.classList.contains('eliminar')) {
             const clienteId = parseInt(e.target.dataset.cliente);
             
